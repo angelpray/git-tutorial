@@ -3,4 +3,5 @@ github使用
 -feature-a
 -fix-c
 -featrue-c
--feautre-d
+-feature-d
+-feature-d
